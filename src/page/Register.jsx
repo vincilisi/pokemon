@@ -95,7 +95,7 @@ function Register() {
                             required
                         />
                         <label htmlFor="privacy" className="text-white text-sm">
-                            Accetto la <a href="/privacy" className="underline text-blue-600" target="_blank" rel="noopener noreferrer">Privacy Policy</a> e i <a href="/termini" className="underline text-blue-600" target="_blank" rel="noopener noreferrer">Termini di Servizio</a>
+                            Accetto la <a href="/privacy" className="underline text-yellow-400" target="_blank" rel="noopener noreferrer">Privacy Policy</a> e i <a href="/termini" className="underline text-yellow-400" target="_blank" rel="noopener noreferrer">Termini di Servizio</a>
                         </label>
                     </div>
                     {error && <div className="text-red-600 text-sm">{error}</div>}
