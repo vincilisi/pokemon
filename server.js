@@ -6,8 +6,6 @@ const getColors = require('get-image-colors');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
 const app = express();
-const PORT = 4000;
-
 app.use(cors());
 
 const genRanges = {
@@ -28,10 +26,10 @@ function createGenEndpoint(genName, [start, end]) {
 
     app.get(`/api/${genName}`, async (req, res) => {
         try {
-            if (cache) {
+            if (cache && process.env.NODE_ENV !== "development") {
                 return res.json(cache);
             }
-            if (fs.existsSync(cachePath)) {
+            if (fs.existsSync(cachePath) && process.env.NODE_ENV !== "development") {
                 const fileData = fs.readFileSync(cachePath, 'utf-8');
                 cache = JSON.parse(fileData);
                 return res.json(cache);
@@ -64,12 +62,15 @@ function createGenEndpoint(genName, [start, end]) {
                             sprite: pokeData.sprites.front_default,
                             color: speciesData.color.name,
                             dominantColor,
-                            mainType: pokeData.types[0]?.type?.name, // <-- tipo principale
+                            mainType: pokeData.types[0]?.type?.name,
                         };
                     })
             );
             cache = detailed;
-            fs.writeFileSync(cachePath, JSON.stringify(detailed));
+            // Su Vercel non scrivere su disco!
+            if (!process.env.VERCEL) {
+                fs.writeFileSync(cachePath, JSON.stringify(detailed));
+            }
             res.json(detailed);
         } catch (err) {
             res.status(500).json({ error: `Errore nel recupero dei dati Pokémon ${genName}` });
@@ -81,6 +82,12 @@ Object.entries(genRanges).forEach(([genName, range]) => {
     createGenEndpoint(genName, range);
 });
 
-app.listen(PORT, () => {
-    console.log(`Backend Pokémon in ascolto su http://localhost:${PORT}`);
-});
+// Compatibilità locale/Vercel
+if (process.env.VERCEL) {
+    module.exports = app;
+} else {
+    const PORT = process.env.PORT || 4000;
+    app.listen(PORT, () => {
+        console.log(`Backend Pokémon in ascolto su http://localhost:${PORT}`);
+    });
+}
