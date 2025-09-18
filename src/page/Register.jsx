@@ -1,86 +1,76 @@
 import { useState } from "react";
-import { createUserWithEmailAndPassword } from "firebase/auth";
-import { auth } from "../firebase";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import ReverseStripes from "../components/ReverseStripes";
 
-function RegisterPage() {
+function Register() {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
-    const [showContent, setShowContent] = useState(false);
     const navigate = useNavigate();
 
     const handleRegister = async (e) => {
         e.preventDefault();
-        try {
-            await createUserWithEmailAndPassword(auth, email, password);
-            navigate("/dashboard");
-        } catch (error) {
-            console.error("Errore:", error.message);
-        }
-    };
-
-    const handleTransitionComplete = () => {
-        setShowContent(true);
+        // Logica di registrazione qui
+        // navigate("/") se vuoi tornare alla home dopo
     };
 
     return (
-        <div
-            className="relative min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-yellow-100 to-yellow-300 overflow-hidden"
-            style={{
-                backgroundImage: "url('/img/eevee.png')",
-                backgroundRepeat: "no-repeat",
-                backgroundPosition: "center",
-                backgroundSize: "50%",
-            }}
-        >
-            {!showContent && <ReverseStripes onComplete={handleTransitionComplete} />}
-
-            {showContent && (
-                <>
-                    <motion.h1
-                        className="text-5xl font-bold text-yellow-500 drop-shadow-lg -mt-[40%] z-10"
-                        initial={{ opacity: 0, y: -50 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 1 }}
+        <div className="flex flex-col items-center justify-center min-h-screen relative overflow-hidden">
+            {/* Eevee come background centrale sopra il titolo */}
+            <motion.img
+                src="/img/eevee.png"
+                alt="Eevee"
+                className="absolute left-[25%] top-[7%] w-[50%] max-w-[100%] -translate-x-1/2 -translate-y-2/3 pointer-events-none select-none opacity-80"
+                initial={{ opacity: 0, scale: 1.2, filter: "brightness(2) blur(8px)" }}
+                animate={{ opacity: 0.8, scale: 1, filter: "brightness(1.2) blur(0px)" }}
+                transition={{ duration: 1.2, ease: "easeOut" }}
+                style={{ zIndex: 1 }}
+            />
+            {/* Contenuto sopra Eevee */}
+            <div className="flex flex-col items-center justify-center w-full z-10 relative">
+                <motion.h2
+                    className="text-5xl font-bold text-yellow-300 drop-shadow-[0_0_40px_rgba(255,255,100,0.9)] mb-8"
+                    initial={{ opacity: 0, scale: 0.7, filter: "brightness(2) blur(8px)" }}
+                    animate={{ opacity: 1, scale: 1, filter: "brightness(1.2) blur(0px)" }}
+                    transition={{ duration: 1, delay: 0.5, ease: "easeOut" }}
+                    style={{ zIndex: 2 }}
+                >
+                    Register
+                </motion.h2>
+                <motion.form
+                    onSubmit={handleRegister}
+                    className="flex flex-col items-center bg-transparent rounded-lg shadow-lg p-8 space-y-6 w-80 mt-20"
+                    initial={{ scaleY: 0, opacity: 0, originY: 0 }}
+                    animate={{ scaleY: 1, opacity: 1 }}
+                    transition={{ duration: 0.7, delay: 1.2, ease: "backOut" }}
+                    style={{ transformOrigin: "top", zIndex: 2 }}
+                >
+                    <input
+                        type="email"
+                        placeholder="Email"
+                        value={email}
+                        onChange={e => setEmail(e.target.value)}
+                        className="border border-transparent rounded px-4 py-2 w-full"
+                        required
+                    />
+                    <input
+                        type="password"
+                        placeholder="Password"
+                        value={password}
+                        onChange={e => setPassword(e.target.value)}
+                        className="border border-gray-300 rounded px-4 py-2 w-full"
+                        required
+                    />
+                    <motion.button
+                        type="submit"
+                        className="rounded-full px-6 py-2 bg-yellow-300 text-red-800 font-semibold shadow-md hover:bg-yellow-400 transition"
+                        whileTap={{ scale: 0.95 }}
                     >
-                        Registrazione
-                    </motion.h1>
-
-                    <motion.form
-                        onSubmit={handleRegister}
-                        className="absolute top-[85%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 flex flex-col space-y-4 p-6 bg-white/80 backdrop-blur-md rounded-xl shadow-lg border-4 border-yellow-300 w-full max-w-md z-20"
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        transition={{ duration: 1, delay: 1.5 }}
-                    >
-                        <input
-                            type="email"
-                            placeholder="Email Pokémon"
-                            value={email}
-                            onChange={(e) => setEmail(e.target.value)}
-                            className="px-4 py-2 rounded-full border-2 border-yellow-300 focus:outline-none focus:ring-2 focus:ring-yellow-400"
-                        />
-                        <input
-                            type="password"
-                            placeholder="Password Segreta"
-                            value={password}
-                            onChange={(e) => setPassword(e.target.value)}
-                            className="px-4 py-2 rounded-full border-2 border-yellow-300 focus:outline-none focus:ring-2 focus:ring-yellow-400"
-                        />
-                        <motion.button
-                            type="submit"
-                            whileHover={{ scale: 1.05 }}
-                            className="bg-yellow-400 text-red-800 font-bold py-2 rounded-full shadow-md hover:bg-yellow-500 transition"
-                        >
-                            Cattura il tuo account!
-                        </motion.button>
-                    </motion.form>
-                </>
-            )}
+                        Registrati
+                    </motion.button>
+                </motion.form>
+            </div>
         </div>
     );
 }
 
-export default RegisterPage;
+export default Register;
