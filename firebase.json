@@ -12,5 +12,9 @@
       ],
       "predeploy": []
     }
-  ]
+  ],
+  "hosting": {
+    "site": "pokewolf",
+    "public": "build"
+  }
 }
