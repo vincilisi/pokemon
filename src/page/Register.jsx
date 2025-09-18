@@ -17,6 +17,7 @@ function Register() {
             return;
         }
         // Logica di registrazione qui
+        navigate("/homepage");
         // navigate("/") se vuoi tornare alla home dopo
     };
 
