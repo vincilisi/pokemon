@@ -19,18 +19,18 @@ function Intro() {
 
             {!showTransition && (
                 <div className="flex flex-col items-center justify-center space-y-6 z-10">
-                    <div className="relative w-64 h-64 flex items-center justify-center">
+                    <div className="relative w-130 h-130 flex items-center justify-center">
                         <motion.img
                             src="/img/logo.png"
                             alt="Pokemon Logo"
-                            className="w-64 h-64"
+                            className="w-130 h-130"
                             initial={{ opacity: 0, scale: 0.1, y: 200, rotate: 0 }}
                             animate={{ opacity: 1, scale: 1, y: 0, rotate: 360 }}
                             transition={{ duration: 2, ease: "easeOut" }}
                         />
                         <motion.h1
                             className="absolute text-7xl font-bold text-center text-yellow-400 drop-shadow-lg pointer-events-none"
-                            style={{ top: "50%", left: "50%", transform: "translate(-50%, -50%)" }}
+                            style={{ top: "45%", left: "20%", transform: "translate(-50%, -50%)" }}
                             initial={{ opacity: 0, scale: 0.1 }}
                             animate={{ opacity: 1, scale: 1 }}
                             transition={{ duration: 2, ease: "easeOut", delay: 1.2 }}
