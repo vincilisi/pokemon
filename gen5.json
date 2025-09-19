@@ -1,1 +1,1250 @@
-[{"name":"victini","id":494,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png","color":"yellow","dominantColor":"#141822","mainType":"psychic"},{"name":"snivy","id":495,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png","color":"green","dominantColor":"#ecde85","mainType":"grass"},{"name":"servine","id":496,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png","color":"green","dominantColor":"#314321","mainType":"grass"},{"name":"serperior","id":497,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png","color":"green","dominantColor":"#b3c874","mainType":"grass"},{"name":"tepig","id":498,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png","color":"red","dominantColor":"#523c32","mainType":"fire"},{"name":"pignite","id":499,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png","color":"red","dominantColor":"#df7c33","mainType":"fire"},{"name":"emboar","id":500,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png","color":"red","dominantColor":"#2e2321","mainType":"fire"},{"name":"oshawott","id":501,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png","color":"blue","dominantColor":"#ececee","mainType":"water"},{"name":"dewott","id":502,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png","color":"blue","dominantColor":"#212735","mainType":"water"},{"name":"samurott","id":503,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png","color":"blue","dominantColor":"#2a323c","mainType":"water"},{"name":"patrat","id":504,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png","color":"brown","dominantColor":"#876244","mainType":"normal"},{"name":"watchog","id":505,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png","color":"brown","dominantColor":"#eaca89","mainType":"normal"},{"name":"lillipup","id":506,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png","color":"brown","dominantColor":"#b0744d","mainType":"normal"},{"name":"herdier","id":507,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png","color":"gray","dominantColor":"#242321","mainType":"normal"},{"name":"stoutland","id":508,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png","color":"gray","dominantColor":"#3a3b41","mainType":"normal"},{"name":"purrloin","id":509,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png","color":"purple","dominantColor":"#7c547c","mainType":"dark"},{"name":"liepard","id":510,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png","color":"purple","dominantColor":"#eac742","mainType":"dark"},{"name":"pansage","id":511,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png","color":"green","dominantColor":"#eabf7d","mainType":"grass"},{"name":"simisage","id":512,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png","color":"green","dominantColor":"#1ca454","mainType":"grass"},{"name":"pansear","id":513,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png","color":"red","dominantColor":"#090909","mainType":"fire"},{"name":"simisear","id":514,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png","color":"red","dominantColor":"#d45541","mainType":"fire"},{"name":"panpour","id":515,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png","color":"blue","dominantColor":"#e0d29e","mainType":"water"},{"name":"simipour","id":516,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png","color":"blue","dominantColor":"#28a6cb","mainType":"water"},{"name":"munna","id":517,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png","color":"pink","dominantColor":"#1e1b1f","mainType":"psychic"},{"name":"musharna","id":518,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png","color":"pink","dominantColor":"#e598be","mainType":"psychic"},{"name":"pidove","id":519,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png","color":"gray","dominantColor":"#242424","mainType":"normal"},{"name":"tranquill","id":520,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png","color":"gray","dominantColor":"#baa8ab","mainType":"normal"},{"name":"unfezant","id":521,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png","color":"gray","dominantColor":"#2c3435","mainType":"normal"},{"name":"blitzle","id":522,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png","color":"black","dominantColor":"#3f3f3e","mainType":"electric"},{"name":"zebstrika","id":523,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png","color":"black","dominantColor":"#2d3232","mainType":"electric"},{"name":"roggenrola","id":524,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png","color":"blue","dominantColor":"#2b2528","mainType":"rock"},{"name":"boldore","id":525,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png","color":"blue","dominantColor":"#c44c2f","mainType":"rock"},{"name":"gigalith","id":526,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png","color":"blue","dominantColor":"#bb3735","mainType":"rock"},{"name":"woobat","id":527,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png","color":"blue","dominantColor":"#2d2a30","mainType":"psychic"},{"name":"swoobat","id":528,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png","color":"blue","dominantColor":"#3b4247","mainType":"psychic"},{"name":"drilbur","id":529,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png","color":"gray","dominantColor":"#dedcdb","mainType":"ground"},{"name":"excadrill","id":530,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png","color":"gray","dominantColor":"#cb8a8a","mainType":"ground"},{"name":"audino","id":531,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png","color":"pink","dominantColor":"#2f363a","mainType":"normal"},{"name":"timburr","id":532,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png","color":"gray","dominantColor":"#c0ac9a","mainType":"fighting"},{"name":"gurdurr","id":533,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png","color":"gray","dominantColor":"#894957","mainType":"fighting"},{"name":"conkeldurr","id":534,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png","color":"brown","dominantColor":"#9f857a","mainType":"fighting"},{"name":"tympole","id":535,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png","color":"blue","dominantColor":"#f8d7b8","mainType":"water"},{"name":"palpitoad","id":536,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png","color":"blue","dominantColor":"#e4c8b0","mainType":"water"},{"name":"seismitoad","id":537,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png","color":"blue","dominantColor":"#2e80a9","mainType":"water"},{"name":"throh","id":538,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png","color":"red","dominantColor":"#b54444","mainType":"fighting"},{"name":"sawk","id":539,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png","color":"blue","dominantColor":"#a8e7e3","mainType":"fighting"},{"name":"sewaddle","id":540,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png","color":"yellow","dominantColor":"#7fb71a","mainType":"bug"},{"name":"swadloon","id":541,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png","color":"green","dominantColor":"#94cb0c","mainType":"bug"},{"name":"leavanny","id":542,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png","color":"yellow","dominantColor":"#3b7e3d","mainType":"bug"},{"name":"venipede","id":543,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png","color":"red","dominantColor":"#2a282b","mainType":"bug"},{"name":"whirlipede","id":544,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png","color":"gray","dominantColor":"#807094","mainType":"bug"},{"name":"scolipede","id":545,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png","color":"red","dominantColor":"#292b35","mainType":"bug"},{"name":"cottonee","id":546,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png","color":"green","dominantColor":"#e4e9ef","mainType":"grass"},{"name":"whimsicott","id":547,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png","color":"green","dominantColor":"#2f4d2a","mainType":"grass"},{"name":"petilil","id":548,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png","color":"green","dominantColor":"#305f2a","mainType":"grass"},{"name":"lilligant","id":549,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png","color":"green","dominantColor":"#2e642e","mainType":"grass"},{"name":"basculin-red-striped","id":550,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png","color":"green","dominantColor":"#c3c3c3","mainType":"water"},{"name":"sandile","id":551,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png","color":"brown","dominantColor":"#262628","mainType":"ground"},{"name":"krokorok","id":552,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png","color":"brown","dominantColor":"#8c7434","mainType":"ground"},{"name":"krookodile","id":553,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png","color":"red","dominantColor":"#1c1c21","mainType":"ground"},{"name":"darumaka","id":554,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png","color":"red","dominantColor":"#b53a2e","mainType":"fire"},{"name":"darmanitan-standard","id":555,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png","color":"red","dominantColor":"#ae2821","mainType":"fire"},{"name":"maractus","id":556,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png","color":"green","dominantColor":"#df7d67","mainType":"grass"},{"name":"dwebble","id":557,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png","color":"red","dominantColor":"#b08661","mainType":"bug"},{"name":"crustle","id":558,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png","color":"red","dominantColor":"#a07442","mainType":"bug"},{"name":"scraggy","id":559,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png","color":"yellow","dominantColor":"#504226","mainType":"dark"},{"name":"scrafty","id":560,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png","color":"red","dominantColor":"#bd552b","mainType":"dark"},{"name":"sigilyph","id":561,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png","color":"black","dominantColor":"#262d2b","mainType":"psychic"},{"name":"yamask","id":562,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png","color":"black","dominantColor":"#232323","mainType":"ghost"},{"name":"cofagrigus","id":563,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png","color":"yellow","dominantColor":"#36363b","mainType":"ghost"},{"name":"tirtouga","id":564,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png","color":"blue","dominantColor":"#5283ac","mainType":"water"},{"name":"carracosta","id":565,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png","color":"blue","dominantColor":"#5386b1","mainType":"water"},{"name":"archen","id":566,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png","color":"yellow","dominantColor":"#e49d5a","mainType":"rock"},{"name":"archeops","id":567,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png","color":"yellow","dominantColor":"#20323c","mainType":"rock"},{"name":"trubbish","id":568,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png","color":"green","dominantColor":"#d7c6c6","mainType":"poison"},{"name":"garbodor","id":569,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png","color":"green","dominantColor":"#385342","mainType":"poison"},{"name":"zorua","id":570,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png","color":"gray","dominantColor":"#58586f","mainType":"dark"},{"name":"zoroark","id":571,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png","color":"gray","dominantColor":"#27252f","mainType":"dark"},{"name":"minccino","id":572,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png","color":"gray","dominantColor":"#393430","mainType":"normal"},{"name":"cinccino","id":573,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png","color":"gray","dominantColor":"#24221f","mainType":"normal"},{"name":"gothita","id":574,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png","color":"purple","dominantColor":"#292b2e","mainType":"psychic"},{"name":"gothorita","id":575,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png","color":"purple","dominantColor":"#373635","mainType":"psychic"},{"name":"gothitelle","id":576,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png","color":"purple","dominantColor":"#373737","mainType":"psychic"},{"name":"solosis","id":577,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png","color":"green","dominantColor":"#d2daac","mainType":"psychic"},{"name":"duosion","id":578,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png","color":"green","dominantColor":"#5cb07a","mainType":"psychic"},{"name":"reuniclus","id":579,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png","color":"green","dominantColor":"#d5d4b3","mainType":"psychic"},{"name":"ducklett","id":580,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png","color":"blue","dominantColor":"#70b3cd","mainType":"water"},{"name":"swanna","id":581,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png","color":"white","dominantColor":"#ebeef2","mainType":"water"},{"name":"vanillite","id":582,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png","color":"white","dominantColor":"#36486f","mainType":"ice"},{"name":"vanillish","id":583,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png","color":"white","dominantColor":"#c7daf2","mainType":"ice"},{"name":"vanilluxe","id":584,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png","color":"white","dominantColor":"#ccddf2","mainType":"ice"},{"name":"deerling","id":585,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png","color":"pink","dominantColor":"#e6bba0","mainType":"normal"},{"name":"sawsbuck","id":586,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png","color":"brown","dominantColor":"#7b5a34","mainType":"normal"},{"name":"emolga","id":587,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png","color":"white","dominantColor":"#34302d","mainType":"electric"},{"name":"karrablast","id":588,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png","color":"blue","dominantColor":"#333a46","mainType":"bug"},{"name":"escavalier","id":589,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png","color":"gray","dominantColor":"#b1b1b4","mainType":"bug"},{"name":"foongus","id":590,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png","color":"white","dominantColor":"#c4b49c","mainType":"grass"},{"name":"amoonguss","id":591,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png","color":"white","dominantColor":"#c59ba6","mainType":"grass"},{"name":"frillish","id":592,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png","color":"white","dominantColor":"#1d1514","mainType":"water"},{"name":"jellicent","id":593,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png","color":"white","dominantColor":"#1a2335","mainType":"water"},{"name":"alomomola","id":594,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png","color":"pink","dominantColor":"#2e272d","mainType":"water"},{"name":"joltik","id":595,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png","color":"yellow","dominantColor":"#162641","mainType":"bug"},{"name":"galvantula","id":596,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png","color":"yellow","dominantColor":"#b99d2a","mainType":"bug"},{"name":"ferroseed","id":597,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png","color":"gray","dominantColor":"#1e3c2a","mainType":"grass"},{"name":"ferrothorn","id":598,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png","color":"gray","dominantColor":"#b8bdb8","mainType":"grass"},{"name":"klink","id":599,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png","color":"gray","dominantColor":"#d7deed","mainType":"steel"},{"name":"klang","id":600,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png","color":"gray","dominantColor":"#b7bac5","mainType":"steel"},{"name":"klinklang","id":601,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png","color":"gray","dominantColor":"#2c393b","mainType":"steel"},{"name":"tynamo","id":602,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png","color":"white","dominantColor":"#794d22","mainType":"electric"},{"name":"eelektrik","id":603,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png","color":"blue","dominantColor":"#dbac70","mainType":"electric"},{"name":"eelektross","id":604,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png","color":"blue","dominantColor":"#214853","mainType":"electric"},{"name":"elgyem","id":605,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png","color":"blue","dominantColor":"#4f806f","mainType":"psychic"},{"name":"beheeyem","id":606,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png","color":"brown","dominantColor":"#1f2c20","mainType":"psychic"},{"name":"litwick","id":607,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png","color":"white","dominantColor":"#d7d1de","mainType":"ghost"},{"name":"lampent","id":608,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png","color":"black","dominantColor":"#262626","mainType":"ghost"},{"name":"chandelure","id":609,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png","color":"black","dominantColor":"#bebed8","mainType":"ghost"},{"name":"axew","id":610,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png","color":"green","dominantColor":"#94a45c","mainType":"dragon"},{"name":"fraxure","id":611,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png","color":"green","dominantColor":"#576c54","mainType":"dragon"},{"name":"haxorus","id":612,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png","color":"yellow","dominantColor":"#44423f","mainType":"dragon"},{"name":"cubchoo","id":613,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png","color":"white","dominantColor":"#394f55","mainType":"ice"},{"name":"beartic","id":614,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png","color":"white","dominantColor":"#d1eaf3","mainType":"ice"},{"name":"cryogonal","id":615,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png","color":"blue","dominantColor":"#6177cd","mainType":"ice"},{"name":"shelmet","id":616,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png","color":"red","dominantColor":"#422130","mainType":"bug"},{"name":"accelgor","id":617,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png","color":"red","dominantColor":"#6877a7","mainType":"bug"},{"name":"stunfisk","id":618,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png","color":"brown","dominantColor":"#c39568","mainType":"ground"},{"name":"mienfoo","id":619,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png","color":"yellow","dominantColor":"#964d4d","mainType":"fighting"},{"name":"mienshao","id":620,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png","color":"purple","dominantColor":"#c1a8bd","mainType":"fighting"},{"name":"druddigon","id":621,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png","color":"red","dominantColor":"#c11147","mainType":"dragon"},{"name":"golett","id":622,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png","color":"green","dominantColor":"#64b3b2","mainType":"ground"},{"name":"golurk","id":623,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png","color":"green","dominantColor":"#5da4ac","mainType":"ground"},{"name":"pawniard","id":624,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png","color":"red","dominantColor":"#331718","mainType":"dark"},{"name":"bisharp","id":625,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png","color":"red","dominantColor":"#232325","mainType":"dark"},{"name":"bouffalant","id":626,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png","color":"brown","dominantColor":"#3c3225","mainType":"normal"},{"name":"rufflet","id":627,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png","color":"white","dominantColor":"#e9e2cd","mainType":"normal"},{"name":"braviary","id":628,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png","color":"red","dominantColor":"#361e23","mainType":"normal"},{"name":"vullaby","id":629,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png","color":"brown","dominantColor":"#d9bfa7","mainType":"dark"},{"name":"mandibuzz","id":630,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png","color":"brown","dominantColor":"#d3af98","mainType":"dark"},{"name":"heatmor","id":631,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png","color":"red","dominantColor":"#8f4c3d","mainType":"fire"},{"name":"durant","id":632,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png","color":"gray","dominantColor":"#b8b8b8","mainType":"bug"},{"name":"deino","id":633,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png","color":"blue","dominantColor":"#4974b6","mainType":"dark"},{"name":"zweilous","id":634,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png","color":"blue","dominantColor":"#3b3a40","mainType":"dark"},{"name":"hydreigon","id":635,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png","color":"blue","dominantColor":"#362830","mainType":"dark"},{"name":"larvesta","id":636,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png","color":"white","dominantColor":"#ededee","mainType":"bug"},{"name":"volcarona","id":637,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png","color":"white","dominantColor":"#bed3d8","mainType":"bug"},{"name":"cobalion","id":638,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png","color":"blue","dominantColor":"#2a3f42","mainType":"steel"},{"name":"terrakion","id":639,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png","color":"gray","dominantColor":"#362e2b","mainType":"rock"},{"name":"virizion","id":640,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png","color":"green","dominantColor":"#91b753","mainType":"grass"},{"name":"tornadus-incarnate","id":641,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png","color":"green","dominantColor":"#d9d9dd","mainType":"flying"},{"name":"thundurus-incarnate","id":642,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png","color":"blue","dominantColor":"#dbd9db","mainType":"electric"},{"name":"reshiram","id":643,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png","color":"white","dominantColor":"#bcbcd4","mainType":"dragon"},{"name":"zekrom","id":644,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png","color":"black","dominantColor":"#17171c","mainType":"dragon"},{"name":"landorus-incarnate","id":645,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png","color":"brown","dominantColor":"#855546","mainType":"ground"},{"name":"kyurem","id":646,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png","color":"gray","dominantColor":"#9eb5c9","mainType":"dragon"},{"name":"keldeo-ordinary","id":647,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png","color":"yellow","dominantColor":"#ea9169","mainType":"water"},{"name":"meloetta-aria","id":648,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png","color":"white","dominantColor":"#dcecba","mainType":"normal"},{"name":"genesect","id":649,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png","color":"purple","dominantColor":"#7b4e93","mainType":"bug"}]
+[
+    {
+        "name": "victini",
+        "id": 494,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
+        "color": "yellow",
+        "dominantColor": "#141822",
+        "mainType": "psychic"
+    },
+    {
+        "name": "snivy",
+        "id": 495,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+        "color": "green",
+        "dominantColor": "#ecde85",
+        "mainType": "grass"
+    },
+    {
+        "name": "servine",
+        "id": 496,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png",
+        "color": "green",
+        "dominantColor": "#314321",
+        "mainType": "grass"
+    },
+    {
+        "name": "serperior",
+        "id": 497,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png",
+        "color": "green",
+        "dominantColor": "#b3c874",
+        "mainType": "grass"
+    },
+    {
+        "name": "tepig",
+        "id": 498,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+        "color": "red",
+        "dominantColor": "#523c32",
+        "mainType": "fire"
+    },
+    {
+        "name": "pignite",
+        "id": 499,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png",
+        "color": "red",
+        "dominantColor": "#df7c33",
+        "mainType": "fire"
+    },
+    {
+        "name": "emboar",
+        "id": 500,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png",
+        "color": "red",
+        "dominantColor": "#2e2321",
+        "mainType": "fire"
+    },
+    {
+        "name": "oshawott",
+        "id": 501,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+        "color": "blue",
+        "dominantColor": "#ececee",
+        "mainType": "water"
+    },
+    {
+        "name": "dewott",
+        "id": 502,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png",
+        "color": "blue",
+        "dominantColor": "#212735",
+        "mainType": "water"
+    },
+    {
+        "name": "samurott",
+        "id": 503,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+        "color": "blue",
+        "dominantColor": "#2a323c",
+        "mainType": "water"
+    },
+    {
+        "name": "patrat",
+        "id": 504,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png",
+        "color": "brown",
+        "dominantColor": "#876244",
+        "mainType": "normal"
+    },
+    {
+        "name": "watchog",
+        "id": 505,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+        "color": "brown",
+        "dominantColor": "#eaca89",
+        "mainType": "normal"
+    },
+    {
+        "name": "lillipup",
+        "id": 506,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png",
+        "color": "brown",
+        "dominantColor": "#b0744d",
+        "mainType": "normal"
+    },
+    {
+        "name": "herdier",
+        "id": 507,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+        "color": "gray",
+        "dominantColor": "#242321",
+        "mainType": "normal"
+    },
+    {
+        "name": "stoutland",
+        "id": 508,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png",
+        "color": "gray",
+        "dominantColor": "#3a3b41",
+        "mainType": "normal"
+    },
+    {
+        "name": "purrloin",
+        "id": 509,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+        "color": "purple",
+        "dominantColor": "#7c547c",
+        "mainType": "dark"
+    },
+    {
+        "name": "liepard",
+        "id": 510,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
+        "color": "purple",
+        "dominantColor": "#eac742",
+        "mainType": "dark"
+    },
+    {
+        "name": "pansage",
+        "id": 511,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png",
+        "color": "green",
+        "dominantColor": "#eabf7d",
+        "mainType": "grass"
+    },
+    {
+        "name": "simisage",
+        "id": 512,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+        "color": "green",
+        "dominantColor": "#1ca454",
+        "mainType": "grass"
+    },
+    {
+        "name": "pansear",
+        "id": 513,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png",
+        "color": "red",
+        "dominantColor": "#090909",
+        "mainType": "fire"
+    },
+    {
+        "name": "simisear",
+        "id": 514,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png",
+        "color": "red",
+        "dominantColor": "#d45541",
+        "mainType": "fire"
+    },
+    {
+        "name": "panpour",
+        "id": 515,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png",
+        "color": "blue",
+        "dominantColor": "#e0d29e",
+        "mainType": "water"
+    },
+    {
+        "name": "simipour",
+        "id": 516,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png",
+        "color": "blue",
+        "dominantColor": "#28a6cb",
+        "mainType": "water"
+    },
+    {
+        "name": "munna",
+        "id": 517,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png",
+        "color": "pink",
+        "dominantColor": "#1e1b1f",
+        "mainType": "psychic"
+    },
+    {
+        "name": "musharna",
+        "id": 518,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png",
+        "color": "pink",
+        "dominantColor": "#e598be",
+        "mainType": "psychic"
+    },
+    {
+        "name": "pidove",
+        "id": 519,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+        "color": "gray",
+        "dominantColor": "#242424",
+        "mainType": "normal"
+    },
+    {
+        "name": "tranquill",
+        "id": 520,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png",
+        "color": "gray",
+        "dominantColor": "#baa8ab",
+        "mainType": "normal"
+    },
+    {
+        "name": "unfezant",
+        "id": 521,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png",
+        "color": "gray",
+        "dominantColor": "#2c3435",
+        "mainType": "normal"
+    },
+    {
+        "name": "blitzle",
+        "id": 522,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+        "color": "black",
+        "dominantColor": "#3f3f3e",
+        "mainType": "electric"
+    },
+    {
+        "name": "zebstrika",
+        "id": 523,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png",
+        "color": "black",
+        "dominantColor": "#2d3232",
+        "mainType": "electric"
+    },
+    {
+        "name": "roggenrola",
+        "id": 524,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png",
+        "color": "blue",
+        "dominantColor": "#2b2528",
+        "mainType": "rock"
+    },
+    {
+        "name": "boldore",
+        "id": 525,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png",
+        "color": "blue",
+        "dominantColor": "#c44c2f",
+        "mainType": "rock"
+    },
+    {
+        "name": "gigalith",
+        "id": 526,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
+        "color": "blue",
+        "dominantColor": "#bb3735",
+        "mainType": "rock"
+    },
+    {
+        "name": "woobat",
+        "id": 527,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+        "color": "blue",
+        "dominantColor": "#2d2a30",
+        "mainType": "psychic"
+    },
+    {
+        "name": "swoobat",
+        "id": 528,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png",
+        "color": "blue",
+        "dominantColor": "#3b4247",
+        "mainType": "psychic"
+    },
+    {
+        "name": "drilbur",
+        "id": 529,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+        "color": "gray",
+        "dominantColor": "#dedcdb",
+        "mainType": "ground"
+    },
+    {
+        "name": "excadrill",
+        "id": 530,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+        "color": "gray",
+        "dominantColor": "#cb8a8a",
+        "mainType": "ground"
+    },
+    {
+        "name": "audino",
+        "id": 531,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+        "color": "pink",
+        "dominantColor": "#2f363a",
+        "mainType": "normal"
+    },
+    {
+        "name": "timburr",
+        "id": 532,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+        "color": "gray",
+        "dominantColor": "#c0ac9a",
+        "mainType": "fighting"
+    },
+    {
+        "name": "gurdurr",
+        "id": 533,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+        "color": "gray",
+        "dominantColor": "#894957",
+        "mainType": "fighting"
+    },
+    {
+        "name": "conkeldurr",
+        "id": 534,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+        "color": "brown",
+        "dominantColor": "#9f857a",
+        "mainType": "fighting"
+    },
+    {
+        "name": "tympole",
+        "id": 535,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png",
+        "color": "blue",
+        "dominantColor": "#f8d7b8",
+        "mainType": "water"
+    },
+    {
+        "name": "palpitoad",
+        "id": 536,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png",
+        "color": "blue",
+        "dominantColor": "#e4c8b0",
+        "mainType": "water"
+    },
+    {
+        "name": "seismitoad",
+        "id": 537,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png",
+        "color": "blue",
+        "dominantColor": "#2e80a9",
+        "mainType": "water"
+    },
+    {
+        "name": "throh",
+        "id": 538,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+        "color": "red",
+        "dominantColor": "#b54444",
+        "mainType": "fighting"
+    },
+    {
+        "name": "sawk",
+        "id": 539,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png",
+        "color": "blue",
+        "dominantColor": "#a8e7e3",
+        "mainType": "fighting"
+    },
+    {
+        "name": "sewaddle",
+        "id": 540,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png",
+        "color": "yellow",
+        "dominantColor": "#7fb71a",
+        "mainType": "bug"
+    },
+    {
+        "name": "swadloon",
+        "id": 541,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+        "color": "green",
+        "dominantColor": "#94cb0c",
+        "mainType": "bug"
+    },
+    {
+        "name": "leavanny",
+        "id": 542,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+        "color": "yellow",
+        "dominantColor": "#3b7e3d",
+        "mainType": "bug"
+    },
+    {
+        "name": "venipede",
+        "id": 543,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+        "color": "red",
+        "dominantColor": "#2a282b",
+        "mainType": "bug"
+    },
+    {
+        "name": "whirlipede",
+        "id": 544,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png",
+        "color": "gray",
+        "dominantColor": "#807094",
+        "mainType": "bug"
+    },
+    {
+        "name": "scolipede",
+        "id": 545,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+        "color": "red",
+        "dominantColor": "#292b35",
+        "mainType": "bug"
+    },
+    {
+        "name": "cottonee",
+        "id": 546,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png",
+        "color": "green",
+        "dominantColor": "#e4e9ef",
+        "mainType": "grass"
+    },
+    {
+        "name": "whimsicott",
+        "id": 547,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+        "color": "green",
+        "dominantColor": "#2f4d2a",
+        "mainType": "grass"
+    },
+    {
+        "name": "petilil",
+        "id": 548,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
+        "color": "green",
+        "dominantColor": "#305f2a",
+        "mainType": "grass"
+    },
+    {
+        "name": "lilligant",
+        "id": 549,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png",
+        "color": "green",
+        "dominantColor": "#2e642e",
+        "mainType": "grass"
+    },
+    {
+        "name": "basculin-red-striped",
+        "id": 550,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+        "color": "green",
+        "dominantColor": "#c3c3c3",
+        "mainType": "water"
+    },
+    {
+        "name": "sandile",
+        "id": 551,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+        "color": "brown",
+        "dominantColor": "#262628",
+        "mainType": "ground"
+    },
+    {
+        "name": "krokorok",
+        "id": 552,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+        "color": "brown",
+        "dominantColor": "#8c7434",
+        "mainType": "ground"
+    },
+    {
+        "name": "krookodile",
+        "id": 553,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+        "color": "red",
+        "dominantColor": "#1c1c21",
+        "mainType": "ground"
+    },
+    {
+        "name": "darumaka",
+        "id": 554,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+        "color": "red",
+        "dominantColor": "#b53a2e",
+        "mainType": "fire"
+    },
+    {
+        "name": "darmanitan-standard",
+        "id": 555,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png",
+        "color": "red",
+        "dominantColor": "#ae2821",
+        "mainType": "fire"
+    },
+    {
+        "name": "maractus",
+        "id": 556,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+        "color": "green",
+        "dominantColor": "#df7d67",
+        "mainType": "grass"
+    },
+    {
+        "name": "dwebble",
+        "id": 557,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+        "color": "red",
+        "dominantColor": "#b08661",
+        "mainType": "bug"
+    },
+    {
+        "name": "crustle",
+        "id": 558,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+        "color": "red",
+        "dominantColor": "#a07442",
+        "mainType": "bug"
+    },
+    {
+        "name": "scraggy",
+        "id": 559,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+        "color": "yellow",
+        "dominantColor": "#504226",
+        "mainType": "dark"
+    },
+    {
+        "name": "scrafty",
+        "id": 560,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png",
+        "color": "red",
+        "dominantColor": "#bd552b",
+        "mainType": "dark"
+    },
+    {
+        "name": "sigilyph",
+        "id": 561,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png",
+        "color": "black",
+        "dominantColor": "#262d2b",
+        "mainType": "psychic"
+    },
+    {
+        "name": "yamask",
+        "id": 562,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+        "color": "black",
+        "dominantColor": "#232323",
+        "mainType": "ghost"
+    },
+    {
+        "name": "cofagrigus",
+        "id": 563,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png",
+        "color": "yellow",
+        "dominantColor": "#36363b",
+        "mainType": "ghost"
+    },
+    {
+        "name": "tirtouga",
+        "id": 564,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png",
+        "color": "blue",
+        "dominantColor": "#5283ac",
+        "mainType": "water"
+    },
+    {
+        "name": "carracosta",
+        "id": 565,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
+        "color": "blue",
+        "dominantColor": "#5386b1",
+        "mainType": "water"
+    },
+    {
+        "name": "archen",
+        "id": 566,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png",
+        "color": "yellow",
+        "dominantColor": "#e49d5a",
+        "mainType": "rock"
+    },
+    {
+        "name": "archeops",
+        "id": 567,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png",
+        "color": "yellow",
+        "dominantColor": "#20323c",
+        "mainType": "rock"
+    },
+    {
+        "name": "trubbish",
+        "id": 568,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+        "color": "green",
+        "dominantColor": "#d7c6c6",
+        "mainType": "poison"
+    },
+    {
+        "name": "garbodor",
+        "id": 569,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+        "color": "green",
+        "dominantColor": "#385342",
+        "mainType": "poison"
+    },
+    {
+        "name": "zorua",
+        "id": 570,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+        "color": "gray",
+        "dominantColor": "#58586f",
+        "mainType": "dark"
+    },
+    {
+        "name": "zoroark",
+        "id": 571,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+        "color": "gray",
+        "dominantColor": "#27252f",
+        "mainType": "dark"
+    },
+    {
+        "name": "minccino",
+        "id": 572,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+        "color": "gray",
+        "dominantColor": "#393430",
+        "mainType": "normal"
+    },
+    {
+        "name": "cinccino",
+        "id": 573,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+        "color": "gray",
+        "dominantColor": "#24221f",
+        "mainType": "normal"
+    },
+    {
+        "name": "gothita",
+        "id": 574,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+        "color": "purple",
+        "dominantColor": "#292b2e",
+        "mainType": "psychic"
+    },
+    {
+        "name": "gothorita",
+        "id": 575,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png",
+        "color": "purple",
+        "dominantColor": "#373635",
+        "mainType": "psychic"
+    },
+    {
+        "name": "gothitelle",
+        "id": 576,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+        "color": "purple",
+        "dominantColor": "#373737",
+        "mainType": "psychic"
+    },
+    {
+        "name": "solosis",
+        "id": 577,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png",
+        "color": "green",
+        "dominantColor": "#d2daac",
+        "mainType": "psychic"
+    },
+    {
+        "name": "duosion",
+        "id": 578,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+        "color": "green",
+        "dominantColor": "#5cb07a",
+        "mainType": "psychic"
+    },
+    {
+        "name": "reuniclus",
+        "id": 579,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+        "color": "green",
+        "dominantColor": "#d5d4b3",
+        "mainType": "psychic"
+    },
+    {
+        "name": "ducklett",
+        "id": 580,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png",
+        "color": "blue",
+        "dominantColor": "#70b3cd",
+        "mainType": "water"
+    },
+    {
+        "name": "swanna",
+        "id": 581,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+        "color": "white",
+        "dominantColor": "#ebeef2",
+        "mainType": "water"
+    },
+    {
+        "name": "vanillite",
+        "id": 582,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png",
+        "color": "white",
+        "dominantColor": "#36486f",
+        "mainType": "ice"
+    },
+    {
+        "name": "vanillish",
+        "id": 583,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+        "color": "white",
+        "dominantColor": "#c7daf2",
+        "mainType": "ice"
+    },
+    {
+        "name": "vanilluxe",
+        "id": 584,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+        "color": "white",
+        "dominantColor": "#ccddf2",
+        "mainType": "ice"
+    },
+    {
+        "name": "deerling",
+        "id": 585,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+        "color": "pink",
+        "dominantColor": "#e6bba0",
+        "mainType": "normal"
+    },
+    {
+        "name": "sawsbuck",
+        "id": 586,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png",
+        "color": "brown",
+        "dominantColor": "#7b5a34",
+        "mainType": "normal"
+    },
+    {
+        "name": "emolga",
+        "id": 587,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png",
+        "color": "white",
+        "dominantColor": "#34302d",
+        "mainType": "electric"
+    },
+    {
+        "name": "karrablast",
+        "id": 588,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+        "color": "blue",
+        "dominantColor": "#333a46",
+        "mainType": "bug"
+    },
+    {
+        "name": "escavalier",
+        "id": 589,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png",
+        "color": "gray",
+        "dominantColor": "#b1b1b4",
+        "mainType": "bug"
+    },
+    {
+        "name": "foongus",
+        "id": 590,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png",
+        "color": "white",
+        "dominantColor": "#c4b49c",
+        "mainType": "grass"
+    },
+    {
+        "name": "amoonguss",
+        "id": 591,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
+        "color": "white",
+        "dominantColor": "#c59ba6",
+        "mainType": "grass"
+    },
+    {
+        "name": "frillish",
+        "id": 592,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png",
+        "color": "white",
+        "dominantColor": "#1d1514",
+        "mainType": "water"
+    },
+    {
+        "name": "jellicent",
+        "id": 593,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png",
+        "color": "white",
+        "dominantColor": "#1a2335",
+        "mainType": "water"
+    },
+    {
+        "name": "alomomola",
+        "id": 594,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png",
+        "color": "pink",
+        "dominantColor": "#2e272d",
+        "mainType": "water"
+    },
+    {
+        "name": "joltik",
+        "id": 595,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+        "color": "yellow",
+        "dominantColor": "#162641",
+        "mainType": "bug"
+    },
+    {
+        "name": "galvantula",
+        "id": 596,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png",
+        "color": "yellow",
+        "dominantColor": "#b99d2a",
+        "mainType": "bug"
+    },
+    {
+        "name": "ferroseed",
+        "id": 597,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png",
+        "color": "gray",
+        "dominantColor": "#1e3c2a",
+        "mainType": "grass"
+    },
+    {
+        "name": "ferrothorn",
+        "id": 598,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+        "color": "gray",
+        "dominantColor": "#b8bdb8",
+        "mainType": "grass"
+    },
+    {
+        "name": "klink",
+        "id": 599,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png",
+        "color": "gray",
+        "dominantColor": "#d7deed",
+        "mainType": "steel"
+    },
+    {
+        "name": "klang",
+        "id": 600,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png",
+        "color": "gray",
+        "dominantColor": "#b7bac5",
+        "mainType": "steel"
+    },
+    {
+        "name": "klinklang",
+        "id": 601,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png",
+        "color": "gray",
+        "dominantColor": "#2c393b",
+        "mainType": "steel"
+    },
+    {
+        "name": "tynamo",
+        "id": 602,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png",
+        "color": "white",
+        "dominantColor": "#794d22",
+        "mainType": "electric"
+    },
+    {
+        "name": "eelektrik",
+        "id": 603,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png",
+        "color": "blue",
+        "dominantColor": "#dbac70",
+        "mainType": "electric"
+    },
+    {
+        "name": "eelektross",
+        "id": 604,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png",
+        "color": "blue",
+        "dominantColor": "#214853",
+        "mainType": "electric"
+    },
+    {
+        "name": "elgyem",
+        "id": 605,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png",
+        "color": "blue",
+        "dominantColor": "#4f806f",
+        "mainType": "psychic"
+    },
+    {
+        "name": "beheeyem",
+        "id": 606,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png",
+        "color": "brown",
+        "dominantColor": "#1f2c20",
+        "mainType": "psychic"
+    },
+    {
+        "name": "litwick",
+        "id": 607,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png",
+        "color": "white",
+        "dominantColor": "#d7d1de",
+        "mainType": "ghost"
+    },
+    {
+        "name": "lampent",
+        "id": 608,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png",
+        "color": "black",
+        "dominantColor": "#262626",
+        "mainType": "ghost"
+    },
+    {
+        "name": "chandelure",
+        "id": 609,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png",
+        "color": "black",
+        "dominantColor": "#bebed8",
+        "mainType": "ghost"
+    },
+    {
+        "name": "axew",
+        "id": 610,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png",
+        "color": "green",
+        "dominantColor": "#94a45c",
+        "mainType": "dragon"
+    },
+    {
+        "name": "fraxure",
+        "id": 611,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png",
+        "color": "green",
+        "dominantColor": "#576c54",
+        "mainType": "dragon"
+    },
+    {
+        "name": "haxorus",
+        "id": 612,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+        "color": "yellow",
+        "dominantColor": "#44423f",
+        "mainType": "dragon"
+    },
+    {
+        "name": "cubchoo",
+        "id": 613,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png",
+        "color": "white",
+        "dominantColor": "#394f55",
+        "mainType": "ice"
+    },
+    {
+        "name": "beartic",
+        "id": 614,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png",
+        "color": "white",
+        "dominantColor": "#d1eaf3",
+        "mainType": "ice"
+    },
+    {
+        "name": "cryogonal",
+        "id": 615,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png",
+        "color": "blue",
+        "dominantColor": "#6177cd",
+        "mainType": "ice"
+    },
+    {
+        "name": "shelmet",
+        "id": 616,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png",
+        "color": "red",
+        "dominantColor": "#422130",
+        "mainType": "bug"
+    },
+    {
+        "name": "accelgor",
+        "id": 617,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png",
+        "color": "red",
+        "dominantColor": "#6877a7",
+        "mainType": "bug"
+    },
+    {
+        "name": "stunfisk",
+        "id": 618,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+        "color": "brown",
+        "dominantColor": "#c39568",
+        "mainType": "ground"
+    },
+    {
+        "name": "mienfoo",
+        "id": 619,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png",
+        "color": "yellow",
+        "dominantColor": "#964d4d",
+        "mainType": "fighting"
+    },
+    {
+        "name": "mienshao",
+        "id": 620,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png",
+        "color": "purple",
+        "dominantColor": "#c1a8bd",
+        "mainType": "fighting"
+    },
+    {
+        "name": "druddigon",
+        "id": 621,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png",
+        "color": "red",
+        "dominantColor": "#c11147",
+        "mainType": "dragon"
+    },
+    {
+        "name": "golett",
+        "id": 622,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png",
+        "color": "green",
+        "dominantColor": "#64b3b2",
+        "mainType": "ground"
+    },
+    {
+        "name": "golurk",
+        "id": 623,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
+        "color": "green",
+        "dominantColor": "#5da4ac",
+        "mainType": "ground"
+    },
+    {
+        "name": "pawniard",
+        "id": 624,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png",
+        "color": "red",
+        "dominantColor": "#331718",
+        "mainType": "dark"
+    },
+    {
+        "name": "bisharp",
+        "id": 625,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png",
+        "color": "red",
+        "dominantColor": "#232325",
+        "mainType": "dark"
+    },
+    {
+        "name": "bouffalant",
+        "id": 626,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png",
+        "color": "brown",
+        "dominantColor": "#3c3225",
+        "mainType": "normal"
+    },
+    {
+        "name": "rufflet",
+        "id": 627,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png",
+        "color": "white",
+        "dominantColor": "#e9e2cd",
+        "mainType": "normal"
+    },
+    {
+        "name": "braviary",
+        "id": 628,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png",
+        "color": "red",
+        "dominantColor": "#361e23",
+        "mainType": "normal"
+    },
+    {
+        "name": "vullaby",
+        "id": 629,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png",
+        "color": "brown",
+        "dominantColor": "#d9bfa7",
+        "mainType": "dark"
+    },
+    {
+        "name": "mandibuzz",
+        "id": 630,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png",
+        "color": "brown",
+        "dominantColor": "#d3af98",
+        "mainType": "dark"
+    },
+    {
+        "name": "heatmor",
+        "id": 631,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png",
+        "color": "red",
+        "dominantColor": "#8f4c3d",
+        "mainType": "fire"
+    },
+    {
+        "name": "durant",
+        "id": 632,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png",
+        "color": "gray",
+        "dominantColor": "#b8b8b8",
+        "mainType": "bug"
+    },
+    {
+        "name": "deino",
+        "id": 633,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png",
+        "color": "blue",
+        "dominantColor": "#4974b6",
+        "mainType": "dark"
+    },
+    {
+        "name": "zweilous",
+        "id": 634,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png",
+        "color": "blue",
+        "dominantColor": "#3b3a40",
+        "mainType": "dark"
+    },
+    {
+        "name": "hydreigon",
+        "id": 635,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+        "color": "blue",
+        "dominantColor": "#362830",
+        "mainType": "dark"
+    },
+    {
+        "name": "larvesta",
+        "id": 636,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+        "color": "white",
+        "dominantColor": "#ededee",
+        "mainType": "bug"
+    },
+    {
+        "name": "volcarona",
+        "id": 637,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+        "color": "white",
+        "dominantColor": "#bed3d8",
+        "mainType": "bug"
+    },
+    {
+        "name": "cobalion",
+        "id": 638,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png",
+        "color": "blue",
+        "dominantColor": "#2a3f42",
+        "mainType": "steel"
+    },
+    {
+        "name": "terrakion",
+        "id": 639,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png",
+        "color": "gray",
+        "dominantColor": "#362e2b",
+        "mainType": "rock"
+    },
+    {
+        "name": "virizion",
+        "id": 640,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png",
+        "color": "green",
+        "dominantColor": "#91b753",
+        "mainType": "grass"
+    },
+    {
+        "name": "tornadus-incarnate",
+        "id": 641,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
+        "color": "green",
+        "dominantColor": "#d9d9dd",
+        "mainType": "flying"
+    },
+    {
+        "name": "thundurus-incarnate",
+        "id": 642,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png",
+        "color": "blue",
+        "dominantColor": "#dbd9db",
+        "mainType": "electric"
+    },
+    {
+        "name": "reshiram",
+        "id": 643,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+        "color": "white",
+        "dominantColor": "#bcbcd4",
+        "mainType": "dragon"
+    },
+    {
+        "name": "zekrom",
+        "id": 644,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+        "color": "black",
+        "dominantColor": "#17171c",
+        "mainType": "dragon"
+    },
+    {
+        "name": "landorus-incarnate",
+        "id": 645,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
+        "color": "brown",
+        "dominantColor": "#855546",
+        "mainType": "ground"
+    },
+    {
+        "name": "kyurem",
+        "id": 646,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
+        "color": "gray",
+        "dominantColor": "#9eb5c9",
+        "mainType": "dragon"
+    },
+    {
+        "name": "keldeo-ordinary",
+        "id": 647,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
+        "color": "yellow",
+        "dominantColor": "#ea9169",
+        "mainType": "water"
+    },
+    {
+        "name": "meloetta-aria",
+        "id": 648,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png",
+        "color": "white",
+        "dominantColor": "#dcecba",
+        "mainType": "normal"
+    },
+    {
+        "name": "genesect",
+        "id": 649,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
+        "color": "purple",
+        "dominantColor": "#7b4e93",
+        "mainType": "bug"
+    }
+]
