@@ -12,12 +12,14 @@ import Gen6 from './page/Gen6';
 import Gen7 from './page/Gen7';
 import Gen8 from './page/Gen8';
 import Gen9 from './page/Gen9';
+import Login from './page/Login';
 function App() {
   return (
     <Routes>
       <Route path="/" element={<Intro />} />
       <Route path="/register" element={<RegisterPage />} />
       <Route path="/homepage" element={<HomePage />} />
+      <Route path="/login" element={<Login />} />
       <Route path="/pokedex" element={<Pokedex />}>
         <Route path="gen1" element={<Gen1 />} />
         <Route path="gen2" element={<Gen2 />} />

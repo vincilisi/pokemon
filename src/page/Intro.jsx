@@ -2,22 +2,28 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import StripeTransition from "../components/StripeTransition";
+import PuzzleTransition from "../components/PuzzleTransition"; // <--- aggiungi questo import
 
 function Intro() {
-    const [showTransition, setShowTransition] = useState(false);
+    const [showStripe, setShowStripe] = useState(false);
+    const [showPuzzle, setShowPuzzle] = useState(false);
     const navigate = useNavigate();
 
-    const handleRegisterClick = () => setShowTransition(true);
-
-    const handleTransitionComplete = () => {
-        if (showTransition) navigate("/register");
-    };
+    const handleRegisterClick = () => setShowStripe(true);
+    const handleLoginClick = () => setShowPuzzle(true);
 
     return (
         <div className="flex items-center justify-center min-h-screen relative overflow-hidden">
-            <StripeTransition show={showTransition} onComplete={handleTransitionComplete} />
+            <StripeTransition
+                show={showStripe}
+                onComplete={() => navigate("/register")}
+            />
+            <PuzzleTransition
+                show={showPuzzle}
+                onComplete={() => navigate("/login")}
+            />
 
-            {!showTransition && (
+            {!showStripe && !showPuzzle && (
                 <div className="flex flex-col items-center justify-center space-y-6 z-10">
                     <div className="relative w-130 h-130 flex items-center justify-center">
                         <motion.img
@@ -50,6 +56,7 @@ function Intro() {
                             Registrati
                         </motion.button>
                         <motion.button
+                            onClick={handleLoginClick}
                             className="rounded-full px-6 py-2 bg-yellow-300 text-red-800 font-semibold shadow-md hover:bg-yellow-400 transition"
                             initial={{ opacity: 0, scale: 0.1 }}
                             animate={{ opacity: 1, scale: 1 }}

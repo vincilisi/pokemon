@@ -1,10 +1,10 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import { createUserWithEmailAndPassword } from "firebase/auth";
+import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../firebase";
 
-function Register() {
+function Login() {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [accepted, setAccepted] = useState(false);
@@ -12,7 +12,11 @@ function Register() {
     const [success, setSuccess] = useState(false);
     const navigate = useNavigate();
 
-    const handleRegister = async (e) => {
+    useEffect(() => {
+        document.title = "Login | PokedexWolf";
+    }, []);
+
+    const handleLogin = async (e) => {
         e.preventDefault();
         setError("");
         setSuccess(false);
@@ -21,20 +25,20 @@ function Register() {
             return;
         }
         try {
-            await createUserWithEmailAndPassword(auth, email, password);
+            await signInWithEmailAndPassword(auth, email, password);
             setSuccess(true);
-            setTimeout(() => navigate("/homepage"), 1000); // Vai alla homepage dopo 1 secondo
+            setTimeout(() => navigate("/homepage"), 1000);
         } catch (err) {
-            setError(err.message);
+            setError("Email o password non corretti.");
         }
     };
 
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-black relative overflow-hidden">
-            {/* Eevee come background */}
+            {/* Immagine login come background */}
             <motion.img
-                src="/img/eevee.png"
-                alt="Eevee"
+                src="/img/login.png"
+                alt="Login"
                 className="absolute left-[25%] top-[7%] w-[50%] max-w-[100%] -translate-x-1/2 -translate-y-2/3 pointer-events-none select-none opacity-80"
                 initial={{ opacity: 0, scale: 1.2, filter: "brightness(2) blur(8px)" }}
                 animate={{ opacity: 0.8, scale: 1, filter: "brightness(1.2) blur(0px)" }}
@@ -49,16 +53,16 @@ function Register() {
                     transition={{ duration: 1, delay: 0.5, ease: "easeOut" }}
                     style={{ zIndex: 2 }}
                 >
-                    Registrati
+                    Login
                 </motion.h1>
                 <motion.form
-                    onSubmit={handleRegister}
+                    onSubmit={handleLogin}
                     className="flex flex-col items-center bg-transparent rounded-lg shadow-lg p-8 space-y-6 w-80"
                     initial={{ scaleY: 0, opacity: 0, originY: 0 }}
                     animate={{ scaleY: 1, opacity: 1 }}
                     transition={{ duration: 0.7, delay: 1.2, ease: "backOut" }}
                     style={{ transformOrigin: "top", zIndex: 2 }}
-                    aria-label="Modulo di registrazione"
+                    aria-label="Modulo di login"
                 >
                     <div className="w-full">
                         <label htmlFor="email" className="block text-white font-semibold mb-2">
@@ -84,8 +88,8 @@ function Register() {
                             id="password"
                             name="password"
                             type="password"
-                            autoComplete="new-password"
-                            placeholder="Crea una password"
+                            autoComplete="current-password"
+                            placeholder="Inserisci la password"
                             value={password}
                             onChange={e => setPassword(e.target.value)}
                             className="border border-gray-300 rounded px-4 py-2 w-full"
@@ -108,13 +112,13 @@ function Register() {
                         </label>
                     </div>
                     {error && <div className="text-red-600 text-sm">{error}</div>}
-                    {success && <div className="text-green-600 text-sm">Registrazione avvenuta!</div>}
+                    {success && <div className="text-green-600 text-sm">Login effettuato!</div>}
                     <motion.button
                         type="submit"
                         className="rounded-full px-6 py-2 bg-yellow-300 text-red-800 font-semibold shadow-md hover:bg-yellow-400 transition"
                         whileTap={{ scale: 0.95 }}
                     >
-                        Registrati
+                        Login
                     </motion.button>
                 </motion.form>
             </div>
@@ -122,4 +126,4 @@ function Register() {
     );
 }
 
-export default Register;
+export default Login;

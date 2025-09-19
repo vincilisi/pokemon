@@ -26,14 +26,14 @@ function Gen9() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        async function fetchGen1Pokemon() {
+        async function fetchGen9Pokemon() {
             setLoading(true);
-            const res = await fetch("http://localhost:4000/api/gen9");
+            const res = await fetch("gen9.json");
             const data = await res.json();
             setPokemonList(data);
             setLoading(false);
         }
-        fetchGen1Pokemon();
+        fetchGen9Pokemon();
     }, []);
 
     if (loading) {

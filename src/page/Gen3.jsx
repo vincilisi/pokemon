@@ -26,14 +26,14 @@ function Gen3() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        async function fetchGen1Pokemon() {
+        async function fetchGen3Pokemon() {
             setLoading(true);
-            const res = await fetch("http://localhost:4000/api/gen3");
+            const res = await fetch("gen3.json");
             const data = await res.json();
             setPokemonList(data);
             setLoading(false);
         }
-        fetchGen1Pokemon();
+        fetchGen3Pokemon();
     }, []);
 
     if (loading) {
