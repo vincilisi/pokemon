@@ -28,7 +28,7 @@ function Gen4() {
     useEffect(() => {
         async function fetchGen4Pokemon() {
             setLoading(true);
-            const res = await fetch("gen4.json");
+            const res = await fetch("/api/gen4");
             const data = await res.json();
             setPokemonList(data);
             setLoading(false);
